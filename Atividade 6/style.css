@@ -1,0 +1,27 @@
+#caixa1{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    padding: 40px;
+    margin: 40px;
+    border: 10px solid red;
+    background-color: tomato;
+}
+#caixa2{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    padding: 40px;
+    margin: 40px;
+    background-color: rgb(61, 101, 139);
+    border: 10px solid blue;
+}
+#caixa3{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    padding: 40px;
+    background-color: rgb(195, 0, 255);
+    margin: 40px;
+    border: 10px solid purple;
+}
